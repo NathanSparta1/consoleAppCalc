@@ -1,0 +1,6 @@
+C:\Users\NIngleton\engineering45\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\NIngleton\engineering45\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\NIngleton\engineering45\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\NIngleton\engineering45\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\NIngleton\engineering45\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\NIngleton\engineering45\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
